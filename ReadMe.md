@@ -1,4 +1,4 @@
-# Работа Симакова Максима
+# Работа для финального тура ITVolga 2022
 
 ##### *Не использовалась ни одна библиотека
 ##### **Работает корректно с html разметкой сайтов: github.com, stackoverflow.com, mozilla.org, overcoder.net, nodejs.org, ***auto.ru***, habr.com, ***youtube.com***
